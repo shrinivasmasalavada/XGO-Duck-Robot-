@@ -490,3 +490,6 @@ GitHub
 My recommendation: first build a clean, professional integration repository that links the three original projects. Once you understand how the hardware, firmware and simulation work together, develop your own modifications in clearly separated folders and document what you have personally implemented and tested.
 
 That gives you a stronger engineering portfolio than simply uploading copied files: it demonstrates architecture, reproducibility, simulation, embedded systems and AI integration.
+
+
+![Uploading image.png…]()
