@@ -1,7 +1,7 @@
 # XGO-Duck-Robot-
 Hardware Architecture + Simulation Architecture + Complete GitHub Structure.
 
-
+https://www.arduino.cc/?utm_source=chatgpt.com
 
 
 # XGO-Duck Robot: Complete Project Architecture, Simulation & Components
